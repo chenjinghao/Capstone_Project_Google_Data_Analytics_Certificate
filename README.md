@@ -32,4 +32,4 @@ or [my Website](https://chenjinghao.github.io/)<br>
 
 ---
 
-![my website image](GoodDaymate.png)
+![my website image](forWA.png)
