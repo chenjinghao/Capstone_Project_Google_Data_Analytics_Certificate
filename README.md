@@ -1,3 +1,4 @@
+![my website image](forWA.png)
 # Google Data Analytics Certificate Capstone Project
 ## About this project
 This is actually my first online course. It was taken for my interest. However, I think I am going to explore further in this career. <br>
@@ -32,4 +33,3 @@ or [my Website](https://chenjinghao.github.io/)<br>
 
 ---
 
-![my website image](forWA.png)
